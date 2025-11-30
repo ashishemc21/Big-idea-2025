@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary">#FF6B35</color>
+    <color name="primary_variant">#E55A2B</color>
+
+    <!-- Secondary colors -->
+    <color name="secondary">#004E89</color>
+    <color name="secondary_variant">#003D6B</color>
+
+    <!-- Basic colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Surface colors -->
+    <color name="surface">#FFFBFE</color>
+    <color name="on_surface">#1C1B1F</color>
+</resources>
+

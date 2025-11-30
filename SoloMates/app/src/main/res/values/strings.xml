@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoloMates</string>
+    <string name="welcome_message">Welcome to SoloMates</string>
+    <string name="app_subtitle">Connect with solo travelers nearby</string>
+</resources>
+
